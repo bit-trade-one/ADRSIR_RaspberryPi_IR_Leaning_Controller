@@ -12,6 +12,8 @@ Raspberry Piを高度な赤外線学習リモコンとして動作させるこ�
 「照明を定時に点灯し、TV の電源を入れ、いつも見る朝のニュースにチャンネルを変更する」など  
 複数の高度な動作を行うことが可能となります。  
 
+## 各種サンプル/使い方などは[こちら](https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/tree/master/Sample)!
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsir/)!
 
 ## 製品仕様
