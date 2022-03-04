@@ -16,6 +16,8 @@ Raspberry Piを高度な赤外線学習リモコンとして動作させるこ�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsir/)!
 
+## [回路図]https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/blob/master/Schematics/ADRSIR_v131_schematics.pdf
+
 ## 製品仕様
 
 【対応機種】Raspberry Pi Model B+／Raspberry Pi 2 Model B／Raspberry Pi 3 Model B
