@@ -1,4 +1,4 @@
-# ADRSIR-ラズベリー・パイ専用 学習リモコン基板のインストール
+# ADRSIR-ラズベリー・パイ専用 学習リモコン基板
 
 ### *製品ページは[こちら](https://bit-trade-one.co.jp/product/module/adrsir/)*
 
