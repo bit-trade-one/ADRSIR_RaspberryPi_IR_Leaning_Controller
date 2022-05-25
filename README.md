@@ -1,9 +1,5 @@
 # ADRSIR-ラズベリー・パイ専用 学習リモコン基板
 
-### *製品ページは[こちら](https://bit-trade-one.co.jp/product/module/adrsir/)*
-
-### [回路図](https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/blob/master/Schematics/ADRSIR_v131_schematics.pdf)
-
 ## ファイルリスト
 - Readme.md             [本文書]
 - FAQ.md                [FAQ]
