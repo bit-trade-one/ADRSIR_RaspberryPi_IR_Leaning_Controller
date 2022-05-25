@@ -22,7 +22,7 @@ Raspberry Piを高度な赤外線学習リモコンとして動作させるこ�
 
 ## [製品HP](https://bit-trade-one.co.jp/product/module/adrsir/)
 
-### [マニュアル](https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/tree/master/Manual/ADRSIR_Manual.jpg)
+### [マニュアル](https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/tree/master/Manual)
 
 ### [各種応用例/サンプル](https://github.com/bit-trade-one/ADRSIR_RaspberryPi_IR_Leaning_Controller/tree/master/Sample)
 
