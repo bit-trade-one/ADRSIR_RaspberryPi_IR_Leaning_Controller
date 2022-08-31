@@ -38,12 +38,13 @@ PC側で __ファームウェア アップデート ツール__ をダウンロ�
 接続が確認されると 左下に 「 USB connected」 と 表示され 、 「 Updateボタン 」 が 押下できる状態になります。ボタンを押下すると、ファームウェアの書込みを開始します 。 書込み中はUSBケーブルを抜かないでください。書込みに失敗すると再書込みできなくな
 る場合があります。<BR>
 
-![](./img/%20%20%20ADRSIR-FWupdate-manual2022-05-24-11-35-25.png)<BR>
+![image](https://user-images.githubusercontent.com/85532743/187592968-0a04a0ef-1400-4423-aab4-816776b49cb8.png)  
 （注）bootloader Firmware Versionで表示されるバージョンはbootloaderのバージョンでファームウェアバージョンではありません。
 
 ## 5. アップデートの確認
 ファームウェアの書換えが完了すると、「Verification successfull」と表示されます。
-![](./img/%20%20%20ADRSIR-FWupdate-manual2022-05-24-11-38-41.png)
+![image](https://user-images.githubusercontent.com/85532743/187593062-d9d6ca3f-3094-422e-8e38-da2bd325f628.png)
+
 
 ## 6. ファームウェアアップデートの完了
 USBケーブルを取り外し、ファームウェアアップデートを完了します。<BR>
