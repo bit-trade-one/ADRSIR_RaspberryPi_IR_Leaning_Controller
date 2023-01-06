@@ -11,9 +11,10 @@
 
 本文書では、ラズベリー・パイ専用 学習リモコン基板のファームウェアアップデート手順について説明します。  
 
-> ※ADRSIR bootloader Firmware Version : 1.0 の場合ファームウェアアップデートツールが使用できません。  
+> <strong>※ADRSIR bootloader Firmware Version : 1.0 の場合ファームウェアアップデートツールが使用できません。</strong>  
 > 手順4. ファームウェアのアップデートまで進めていただき、そこに表示されるバージョンを確認してください。  
-> その場合は[お問い合わせ](https://bit-trade-one.co.jp/contactus/)ください。
+> このとき、<strong>ADRSIR bootloader Firmware Version : 1.0であれば アップデートボタンは押さないで</strong>ください。  
+> アップデートツールが使用できない場合は[お問い合わせ](https://bit-trade-one.co.jp/contactus/)ください。
 
 ## 1. ADRSIR本体の準備
 ADRSIR本体のみを用意します 。
